@@ -1,0 +1,2 @@
+# notey
+terminal note app
